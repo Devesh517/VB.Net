@@ -1,0 +1,11 @@
+C:\Users\asus\AppData\Local\Temporary Projects\BillModule2\bin\Debug\BillModule2.exe.config
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\bin\Debug\BillModule2.exe.config
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\bin\Debug\BillModule2.exe
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\bin\Debug\BillModule2.pdb
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\bin\Debug\BillModule2.xml
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\obj\Debug\BillModule2.Form1.resources
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\obj\Debug\BillModule2.Resources.resources
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\obj\Debug\BillModule2.vbproj.GenerateResource.Cache
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\obj\Debug\BillModule2.exe
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\obj\Debug\BillModule2.xml
+e:\Documents\Visual Studio 2012\Projects\BillModule2\BillModule2\obj\Debug\BillModule2.pdb
